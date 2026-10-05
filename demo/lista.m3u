@@ -1,0 +1,57 @@
+#EXTM3U url-tvg="https://marcos141723423.github.io/lotusplayer-legal/demo/epg.xml"
+#EXTINF:-1 tvg-id="lotus1" tvg-name="Lótus Notícias" tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/logos/canal1.png" group-title="Notícias e Variedades",Lótus Notícias
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?/live/1
+#EXTINF:-1 tvg-id="lotus2" tvg-name="Lótus Esporte" tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/logos/canal2.png" group-title="Notícias e Variedades",Lótus Esporte
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?/live/2
+#EXTINF:-1 tvg-id="lotus3" tvg-name="Lótus Culinária" tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/logos/canal3.png" group-title="Notícias e Variedades",Lótus Culinária
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?/live/3
+#EXTINF:-1 tvg-id="lotus4" tvg-name="Lótus Viagem" tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/logos/canal4.png" group-title="Notícias e Variedades",Lótus Viagem
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?/live/4
+#EXTINF:-1 tvg-id="lotus5" tvg-name="Lótus Filmes" tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/logos/canal5.png" group-title="Entretenimento",Lótus Filmes
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?/live/5
+#EXTINF:-1 tvg-id="lotus6" tvg-name="Lótus Kids" tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/logos/canal6.png" group-title="Entretenimento",Lótus Kids
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?/live/6
+#EXTINF:-1 tvg-id="lotus7" tvg-name="Lótus Música" tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/logos/canal7.png" group-title="Entretenimento",Lótus Música
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?/live/7
+#EXTINF:-1 tvg-id="lotus8" tvg-name="Lótus Docs" tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/logos/canal8.png" group-title="Entretenimento",Lótus Docs
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?/live/8
+#EXTINF:-1 tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/capas/filme101.png" group-title="Filmes - Aventura",Horizonte Azul
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?/movie/101
+#EXTINF:-1 tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/capas/filme102.png" group-title="Filmes - Aventura",Farol do Norte
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?/movie/102
+#EXTINF:-1 tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/capas/filme103.png" group-title="Filmes - Aventura",Rota das Dunas
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?/movie/103
+#EXTINF:-1 tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/capas/filme104.png" group-title="Filmes - Drama",Noite Neon
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?/movie/104
+#EXTINF:-1 tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/capas/filme105.png" group-title="Filmes - Drama",Jardim de Vidro
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?/movie/105
+#EXTINF:-1 tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/capas/filme106.png" group-title="Filmes - Drama",Última Estação
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?/movie/106
+#EXTINF:-1 tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/capas/filme107.png" group-title="Filmes - Drama",Céu de Outono
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?/movie/107
+#EXTINF:-1 tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/capas/filme108.png" group-title="Filmes - Aventura",Ponte Partida
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?/movie/108
+#EXTINF:-1 tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/capas/serie201.png" group-title="Séries - Mar Aberto",Mar Aberto T01 E01
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?/series/301
+#EXTINF:-1 tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/capas/serie201.png" group-title="Séries - Mar Aberto",Mar Aberto T01 E02
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?/series/302
+#EXTINF:-1 tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/capas/serie201.png" group-title="Séries - Mar Aberto",Mar Aberto T01 E03
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?/series/303
+#EXTINF:-1 tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/capas/serie202.png" group-title="Séries - Vila Serena",Vila Serena T01 E01
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?/series/304
+#EXTINF:-1 tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/capas/serie202.png" group-title="Séries - Vila Serena",Vila Serena T01 E02
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?/series/305
+#EXTINF:-1 tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/capas/serie202.png" group-title="Séries - Vila Serena",Vila Serena T01 E03
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?/series/306
+#EXTINF:-1 tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/capas/serie203.png" group-title="Séries - Código Lótus",Código Lótus T01 E01
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?/series/307
+#EXTINF:-1 tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/capas/serie203.png" group-title="Séries - Código Lótus",Código Lótus T01 E02
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?/series/308
+#EXTINF:-1 tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/capas/serie203.png" group-title="Séries - Código Lótus",Código Lótus T01 E03
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?/series/309
+#EXTINF:-1 tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/capas/serie204.png" group-title="Séries - Trilhas",Trilhas T01 E01
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?/series/310
+#EXTINF:-1 tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/capas/serie204.png" group-title="Séries - Trilhas",Trilhas T01 E02
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?/series/311
+#EXTINF:-1 tvg-logo="https://marcos141723423.github.io/lotusplayer-legal/demo/capas/serie204.png" group-title="Séries - Trilhas",Trilhas T01 E03
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?/series/312

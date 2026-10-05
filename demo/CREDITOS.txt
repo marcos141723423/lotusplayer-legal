@@ -1,0 +1,6 @@
+Material de demonstração do Lotus Player (capturas de tela da loja).
+
+- Capas, logos, nomes de canais, filmes, séries e programas: criados para o Lotus Player (fictícios).
+- Vídeo "Big Buck Bunny" (c) Blender Foundation, licença Creative Commons Attribution 3.0 — https://peach.blender.org
+  Stream de teste público: test-streams.mux.dev
+- Sinal de teste "bipbop": stream de exemplo público da Apple (devstreaming-cdn.apple.com).
