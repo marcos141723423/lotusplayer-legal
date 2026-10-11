@@ -4,3 +4,9 @@ Material de demonstração do Lotus Player (capturas de tela da loja).
 - Vídeo "Big Buck Bunny" (c) Blender Foundation, licença Creative Commons Attribution 3.0 — https://peach.blender.org
   Stream de teste público: test-streams.mux.dev
 - Sinal de teste "bipbop": stream de exemplo público da Apple (devstreaming-cdn.apple.com).
+
+Lista do revisor da Google Play (lotusplayer_demo.m3u, pasta img/):
+- "Big Buck Bunny" (c) 2008 Blender Foundation, CC BY 3.0 - https://peach.blender.org - stream de teste: test-streams.mux.dev
+- "Tears of Steel" (CC) Blender Foundation, CC BY 3.0 - https://mango.blender.org - streams de teste: demo.unified-streaming.com e test-streams.mux.dev
+- Canais de teste: exemplo da Apple (devstreaming-cdn.apple.com) e demonstracao publica da Unified Streaming.
+- Capas feitas a partir de quadros dos filmes, com credito a Blender Foundation. Logos "DEMO 1/2": criados para o Lotus Player.
